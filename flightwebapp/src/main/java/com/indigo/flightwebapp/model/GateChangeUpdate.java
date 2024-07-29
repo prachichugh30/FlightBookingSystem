@@ -1,7 +1,7 @@
 package com.indigo.flightwebapp.model;
 
 import org.springframework.data.mongodb.core.mapping.MongoId;
-
+@Document
 public class GateChangeUpdate {
 	@MongoId
 private String flightId;
