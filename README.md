@@ -14,6 +14,6 @@ The Flight Booking System can be accessed by two categories of users: Customers 
 1. BACKEND: JAVA, SPRINGBOOT, Restapi, kafka
 2. FRONTEND: Angular, HTML, CSS
 
-3. #DATABASE USED:-MYSQL, Mongodb
+3. #DATABASE USED: Mongodb
 
   
